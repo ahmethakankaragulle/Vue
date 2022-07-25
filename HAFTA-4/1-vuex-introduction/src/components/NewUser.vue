@@ -1,7 +1,6 @@
-<template>
+<template> 
     <button @click="updateName">Yeni Item Ekle</button>
 </template>
-
 <script>
 export default {
     methods: {

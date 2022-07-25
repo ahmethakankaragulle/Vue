@@ -6,7 +6,6 @@
 <script>
 import UserList from "@/components/UserList"
 import NewUser from "@/components/NewUser"
-
 export default {
   name: 'App',
   components: {
@@ -14,5 +13,6 @@ export default {
     NewUser
   }
 };
+
 </script>
 

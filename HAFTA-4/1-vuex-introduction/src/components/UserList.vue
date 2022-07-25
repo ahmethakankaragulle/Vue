@@ -9,7 +9,7 @@
 import { mapGetters } from 'vuex'
 export default {
     computed: {
-    ...mapGetters(["woodItems", "activeUser"]),
+    ...mapGetters(["woodItems", "activeUser"])
     //customComputed(){}
   }
 }

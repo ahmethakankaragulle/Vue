@@ -10,7 +10,7 @@
   <pre> {{contactName}}</pre>
 </template>
 
-<script>
+<script> 
 import { mapGetters } from 'vuex'
 
 export default {
